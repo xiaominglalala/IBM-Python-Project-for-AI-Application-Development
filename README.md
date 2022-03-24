@@ -1,6 +1,6 @@
 # IBM Python Project for AI Application Development
 
-![translator_instance](README/translator_instance.PNG)![French_to_English](README/English_to_French.PNG)
+<img src="README/translator_instance.PNG" alt="translator_instance" style="zoom:50%;" />![French_to_English](README/English_to_French.PNG)
 
 ![English_to_French](README/English_to_French-16481344672412.PNG)
 
